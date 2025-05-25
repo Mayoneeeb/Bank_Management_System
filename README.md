@@ -10,15 +10,8 @@ A C++ compiler (included with Visual Studio)
 Windows OS (or adjust for your platform if using cross-compilation)
 
 Setup Instructions
-Clone or Download the Project
 
-Ensure you have the project files, including BankMSproject.sln.
-
-Open the Solution in Visual Studio
-
-Double-click BankMSproject.sln to open it in Visual Studio.
-
-Alternatively, open Visual Studio and select File > Open > Project/Solution to locate BankMSproject.sln.
+Copy the Code to the compiler 
 
 Build the Project
 
